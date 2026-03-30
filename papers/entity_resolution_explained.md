@@ -1,7 +1,7 @@
 # What is entity resolution?:
 Entity resolution refers to the task of trying to idenitify the same entity from different datasets.
 
-How has the work we've done in class related to solving entity resolution?:
+How has the work we've done related to solving entity resolution?:
 Week 1: We talked about LLMs and how they work. We were also introduced to features and labels, integral parts of the entity resoluion progress as they bascially determine whether data relates or not.
 
 Week 2: We fiddled with early ideas of entity resolution with the articles and grantees datasets as we organized the data into individual people. We talked about things like data mergeing and further fleshed out the ideas of week 1. We asked questions like: "How can we fix inconsistencies in the data set in order to have the datasets similarly organized?" If the data isn't clean than the model isn't gonna learn the things we want it to.
